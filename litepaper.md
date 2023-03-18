@@ -1,4 +1,4 @@
-# **Litepaper: Ripple Solvency**
+# **Litepaper: XRPL Solvency**
   
   
 ## **Plan :**
@@ -35,19 +35,19 @@ Privacy is at the core of the blockchain ecosystem and at the center of the orig
 
 ## **1.  Executive Summary**
     
-Ripple Solvency is a solution that addresses the growing need for privacy in the blockchain ecosystem by providing a means for individuals to prove solvency without revealing their wallet address or transaction history. This is achieved through the use of cryptographic ring signature technology and other cryptographic means to generate verifiable, solvency proofs at a specific point in time. The solution is designed for individuals who value their privacy while transacting on blockchain platforms, and it offers a unique value proposition by allowing users to prove solvency without compromising their privacy.
+XRPL Solvency is a solution that addresses the growing need for privacy in the blockchain ecosystem by providing a means for individuals to prove solvency without revealing their wallet address or transaction history. This is achieved through the use of cryptographic ring signature technology and other cryptographic means to generate verifiable, solvency proofs at a specific point in time. The solution is designed for individuals who value their privacy while transacting on blockchain platforms, and it offers a unique value proposition by allowing users to prove solvency without compromising their privacy.
 
   
 
 ## **2.  The problem**
     
-The XRP Ledger is a decentralized, open-source blockchain technology that enables fast and secure transactions of the digital currency XRP. While the XRP Ledger provides a reliable platform for sending and receiving XRP, there is currently a need for solutions specifically designed for generating solvency proofs. This gap in the market creates an opportunity for solutions like the Ripple Solvency project to offer a new, innovative approach to generating proof of solvency that provides greater privacy and security for users. By leveraging cryptographic ring signatures and other cryptographic means, Ripple Solvency can generate verifiable solvency proofs that do not reveal the user's on-chain assets and history associated with their own identity, filling a need that is currently unmet by XRP Ledger-based solutions. Ripple Solvency could be used to offer a new level of trust and transparency to the XRP ecosystem, while ensuring the privacy and security of users' on-chain assets.
+The XRP Ledger is a decentralized, open-source blockchain technology that enables fast and secure transactions of the digital currency XRP. While the XRP Ledger provides a reliable platform for sending and receiving XRP, there is currently a need for solutions specifically designed for generating solvency proofs. This gap in the market creates an opportunity for solutions like the XRPL Solvency project to offer a new, innovative approach to generating proof of solvency that provides greater privacy and security for users. By leveraging cryptographic ring signatures and other cryptographic means, XRPL Solvency can generate verifiable solvency proofs that do not reveal the user's on-chain assets and history associated with their own identity, filling a need that is currently unmet by XRP Ledger-based solutions. XRPL Solvency could be used to offer a new level of trust and transparency to the XRP ecosystem, while ensuring the privacy and security of users' on-chain assets.
 
 SECP256k1 is a widely used elliptic curve cryptography algorithm that is used in many blockchain applications, including Bitcoin and Ethereum. While SECP256K1 provides a secure means of generating cryptographic signatures and keys, it is not ideally suited for use in zero-knowledge proofs (ZKPs) such as ZK-SNARKs.
 
 ZK-SNARKs require pairing-friendly elliptic curve cryptography, which is not a property of SECP256K1. This means that implementing ZK-SNARKs with SECP256K1 is not straightforward and requires additional workarounds that can significantly reduce the efficiency and security of the system.
 
-As Ripple Solvency is designed to provide a highly secure and efficient means of generating verifiable solvency proofs, the team behind the project needs to carefully consider the cryptography algorithms used in the solution. While SECP256K1 is a widely used and secure algorithm, it is not ideally suited for ZK-SNARKs, and other cryptography algorithms may need to be considered to ensure the best possible security and efficiency for the solution.
+As XRPL Solvency is designed to provide a highly secure and efficient means of generating verifiable solvency proofs, the team behind the project needs to carefully consider the cryptography algorithms used in the solution. While SECP256K1 is a widely used and secure algorithm, it is not ideally suited for ZK-SNARKs, and other cryptography algorithms may need to be considered to ensure the best possible security and efficiency for the solution.
 
 ## **3.  The solution**  
 
@@ -61,9 +61,9 @@ Ring signatures are considered to be XRPL and EVM (Ethereum Virtual Machine) fri
 
 Moreover, ring signatures are a proven and well-established cryptographic technique that has been widely used in the cryptocurrency industry, particularly for privacy-focused applications. The underlying math is well-understood, and implementations of ring signatures have been tested and reviewed by the cryptography community, providing a high level of confidence in their security.
 
-Ring signatures are also highly efficient, allowing for fast and scalable computation of cryptographic signatures, which is important in the context of blockchain applications where speed and scalability are critical. As a result, ring signatures are a good choice for applications that require fast and secure cryptographic operations, such as Ripple Solvency  proof generation.
+Ring signatures are also highly efficient, allowing for fast and scalable computation of cryptographic signatures, which is important in the context of blockchain applications where speed and scalability are critical. As a result, ring signatures are a good choice for applications that require fast and secure cryptographic operations, such as XRPL Solvency  proof generation.
 
-Overall, the use of ring signatures in Ripple Solvency makes it an efficient and secure solution for generating verifiable solvency proofs on the XRPL lockchain.
+Overall, the use of ring signatures in XRPL Solvency makes it an efficient and secure solution for generating verifiable solvency proofs on the XRPL lockchain.
 
 Ring signatures are considered scalable because they can be verified quickly and efficiently, even when the size of the signing group is very large. This is because the verification process only involves checking a single signature, rather than verifying multiple signatures from each member of the group.
 
@@ -97,7 +97,7 @@ Alice wants to generate a solvency proof for Bob :
 
 Bob want to verify Alice’s proof :
 
-1.  Bob goes to Ripple Solvency's Dapp, in the check proof section
+1.  Bob goes to XRPL Solvency's Dapp, in the check proof section
     
 2.  He fills in Alice's communication address as well as the ID of the SoulBound token given by Alice
     
@@ -142,28 +142,28 @@ These are just a few examples of the many potential use cases for solvency proof
 
 ## **6. Compliance**
 
-Compliance with institutional requirements is of paramount importance to Ripple Solvency. We offer a service that remains 100% compatible with the laws put in place by the different states since our modules do not allow money laundering in any way. 
+Compliance with institutional requirements is of paramount importance to XRPL Solvency. We offer a service that remains 100% compatible with the laws put in place by the different states since our modules do not allow money laundering in any way. 
 
 ## **7.  Market Analysis**
 
 ### **Potential customers :**
 
-The potential customers for Ripple Solvency  solution could include:
+The potential customers for XRPL Solvency  solution could include:
 
 
-**Individuals:** Individuals who are concerned about privacy on the blockchain could be potential customers for Ripple Solvency's solution. These individuals could be cryptocurrency users who want to protect their transaction data from being traced or linked to their real-world identity.
+**Individuals:** Individuals who are concerned about privacy on the blockchain could be potential customers for XRPL Solvency's solution. These individuals could be cryptocurrency users who want to protect their transaction data from being traced or linked to their real-world identity.
 
   
 
-**Businesses:** Businesses that use blockchain technology for various purposes, such as supply chain management, payment processing, and data storage, could also be potential customers for Ripple Solvency's solution. These businesses may want to protect their transaction history and main wallet info from competitors, hackers, or other third parties.
+**Businesses:** Businesses that use blockchain technology for various purposes, such as supply chain management, payment processing, and data storage, could also be potential customers for XRPL Solvency's solution. These businesses may want to protect their transaction history and main wallet info from competitors, hackers, or other third parties.
 
-**Financial Institutions:** Financial institutions that deal with cryptocurrency transactions, such as exchanges and wallets, could also be potential customers for Ripple Solvency's solution. These institutions may want to enhance the privacy and security of their customers' transactions to protect them from fraudulent activities. During a financial check, for example, the platform will be able to prove that such a user does indeed hold a certain amount of tokens without having to leak his address.
+**Financial Institutions:** Financial institutions that deal with cryptocurrency transactions, such as exchanges and wallets, could also be potential customers for XRPL Solvency's solution. These institutions may want to enhance the privacy and security of their customers' transactions to protect them from fraudulent activities. During a financial check, for example, the platform will be able to prove that such a user does indeed hold a certain amount of tokens without having to leak his address.
 
-**Non-profit Organizations:** Non-profit organizations that rely on donations or fundraising through cryptocurrency transactions could also be potential customers for Ripple Solvency solution. These organizations may want to protect their donors' transaction data and maintain their privacy and pseudonym on the blockchain.
+**Non-profit Organizations:** Non-profit organizations that rely on donations or fundraising through cryptocurrency transactions could also be potential customers for XRPL Solvency solution. These organizations may want to protect their donors' transaction data and maintain their privacy and pseudonym on the blockchain.
 
 ### **Competitors :**
 
-While Ripple Solvency is a unique solution that offers a specific set of features and benefits, there are a few potential competitors that offer similar solutions for privacy-enhanced transactions on the blockchain:
+While XRPL Solvency is a unique solution that offers a specific set of features and benefits, there are a few potential competitors that offer similar solutions for privacy-enhanced transactions on the blockchain:
  
 **Mixers:** Mixers are a popular solution for enhancing privacy on the blockchain by obfuscating the transaction history. There are several mixers available in the market, such as Wasabi Wallet or CoinJoin applications.
 
@@ -173,23 +173,23 @@ While Ripple Solvency is a unique solution that offers a specific set of feature
 
 **TumbleBit:** TumbleBit is a solution that offers privacy-enhanced transactions by using a combination of cryptographic techniques like coin shuffling, encryption, and hashing. It is currently available as an extension for the Bitcoin Core wallet.
 
-**Privacy based blockchains:** Zero-knowledge proof blockchains like Zcash, Monero, Horizen, and others use cryptographic techniques to ensure the privacy and confidentiality of transactions on the network. These blockchains offer enhanced privacy for transactions, similar to Ripple Solvency.
+**Privacy based blockchains:** Zero-knowledge proof blockchains like Zcash, Monero, Horizen, and others use cryptographic techniques to ensure the privacy and confidentiality of transactions on the network. These blockchains offer enhanced privacy for transactions, similar to XRPL Solvency.
  
 
 **Market trends :**
 
-As privacy become increasingly important in the blockchain ecosystem, there is a growing demand for solutions like Ripple Solvency that offer enhanced privacy for user interactions. The market trend for privacy-enhanced blockchain solutions has been on the rise in recent years, with a particular focus on the Ethereum ecosystem. Many new privacy-focused projects have emerged, offering unique features and benefits to users.
+As privacy become increasingly important in the blockchain ecosystem, there is a growing demand for solutions like XRPL Solvency that offer enhanced privacy for user interactions. The market trend for privacy-enhanced blockchain solutions has been on the rise in recent years, with a particular focus on the Ethereum ecosystem. Many new privacy-focused projects have emerged, offering unique features and benefits to users.
 
 The trend towards privacy on the blockchain is being driven by several factors, including concerns about surveillance, data breaches, and identity theft. As the number of blockchain applications and use cases expands beyond the traditional cryptocurrency sphere, the need for privacy is becoming more acute.
 
-As a result, we can expect to see continued growth in the market for privacy-enhanced blockchain solutions like "Ripple Solvency" as more individuals and businesses seek to protect their transaction data and maintain their privacy on the blockchain. However, there may also be challenges in this market, such as regulatory issues and concerns about the use of privacy-enhanced technologies for illicit purposes.
+As a result, we can expect to see continued growth in the market for privacy-enhanced blockchain solutions like "XRPL Solvency" as more individuals and businesses seek to protect their transaction data and maintain their privacy on the blockchain. However, there may also be challenges in this market, such as regulatory issues and concerns about the use of privacy-enhanced technologies for illicit purposes.
   
 
 ## **8.  Marketing strategy**
 
 **Target Audience:** As previously mentioned, our target audience includes individuals, businesses, financial institutions, government agencies, and non-profit organizations. Each of these groups has different needs and pain points that should be addressed in our marketing strategy.
 
-**Key message:** Our key message emphasizes the unique benefits of Ripple Solvency solution, which is enhancing privacy, and solvency verification. Giving our users several benefits such as :
+**Key message:** Our key message emphasizes the unique benefits of XRPL Solvency solution, which is enhancing privacy, and solvency verification. Giving our users several benefits such as :
 
 -   Protecting Personal Information: Privacy is essential for protecting personal information on the blockchain. By enhancing privacy, users can protect their real identity, transaction history, and other sensitive information from being exposed to third parties.
     
@@ -201,22 +201,22 @@ As a result, we can expect to see continued growth in the market for privacy-enh
     
 **Create Content:** The next step for us will be to create content that resonates with the target audience. This includes blog posts, social media content, case studies, whitepapers, and webinars.
 
-**Attend Conferences and Events:** Attending blockchain and cryptocurrency conferences and events is an effective way to network and connect with potential customers. Our marketing strategy includes a plan to attend relevant conferences and events and showcase Ripple Solvency solutions. Our genesis event, ETHDenver, is a perfect exemple.
+**Attend Conferences and Events:** Attending blockchain and cryptocurrency conferences and events is an effective way to network and connect with potential customers. Our marketing strategy includes a plan to attend relevant conferences and events and showcase XRPL Solvency solutions. Our genesis event, ETHDenver, is a perfect exemple.
 
 **Measure Results:** Finally, it's important to measure the results of our marketing strategy. This includes tracking website traffic, social media engagement, lead generation, and conversion rates. Based on the results, the marketing strategy should be adjusted and refined to optimize our results.
 
 ## **9.  Product development**
 
-Ripple Solvency enhances features that require to develop technical solutions for front-end and back-end development such as an indexer or an off-chain smart contract execution environnment like "Codius". 
+XRPL Solvency enhances features that require to develop technical solutions for front-end and back-end development such as an indexer or an off-chain smart contract execution environnment like "Codius". 
 
-### **Ripple Solvency - Front End Application**
+### **XRPL Solvency - Front End Application**
 
 The front end application in react developed during the ETHDenver 2023 hackathon aims to offer the possibility to interact with the different ring signature functionalities and to issue proof of solvency for different use cases.
 
 #### **Structure :**
 
 **Home page:**
-In this section you will learn more about our Ripple Solvency project and the "proof of solvency" that we can generate and issue thanks to ring signatures. There are many use cases and we have detailed some of them for you.
+In this section you will learn more about our XRPL Solvency project and the "proof of solvency" that we can generate and issue thanks to ring signatures. There are many use cases and we have detailed some of them for you.
 
 
 
@@ -241,18 +241,18 @@ XRPL Testnet and Mainnet.
 
 # Why Using XRPL Network:
 
-Ripple blockchain's design and features make it a good fit for our solution in several ways. First, Ripple uses a unique consensus algorithm called the Ripple Protocol Consensus Algorithm (RPCA), which allows for fast and efficient validation of transactions. This means that our privacy enhancer and solvency prover, which relies on generating solvency proofs quickly and efficiently, can benefit from the speed and scalability of Ripple's consensus algorithm.
+XRPL blockchain's design and features make it a good fit for our solution in several ways. First, XRPL uses a unique consensus algorithm called the XRPL Protocol Consensus Algorithm, which allows for fast and efficient validation of transactions. This means that our privacy enhancer and solvency prover, which relies on generating solvency proofs quickly and efficiently, can benefit from the speed and scalability of XRPL consensus algorithm.
 
   
 Second, Ripple has a focus on cross-border payments and remittances, which means that it is well-suited for use cases that involve international transactions and the need for privacy and security. It uses the Interledger Protocol (ILP) to facilitate cross-border payments, making it a powerful tool for international transactions. Our solution, which aims to provide privacy-enhanced solvency proofs for various use cases, for individuals and business, can benefit from Ripple's global reach and focus on secure and efficient payments.
 
   
 
-Moreover, Ripple is a blockchain solution that is specifically designed for the transfer of financial assets, making it a good fit for our solution that involves solvency verification in financial transactions. Ripple's blockchain technology is known for its speed, scalability, and efficiency, which are critical factors in the financial sector where transactions need to be processed quickly and securely.
+Moreover, Ripple is a blockchain solution that is specifically designed for the transfer of assets for businesses, making it a good fit for our solution that involves solvency verification in financial transactions. XRPL blockchain technology and XRPL solutions are  known for their speed, scalability, and efficiency, which are critical factors in the financial sector where transactions need to be processed quickly and securely.
 
   
 
-In addition, Ripple's XRP cryptocurrency can be used as a bridge currency for currency conversions, enabling transactions between different currencies without the need for multiple intermediaries, reducing transaction fees and increasing transaction speed.
+In addition, XRPL XRP cryptocurrency can be used as a bridge currency for currency conversions, enabling transactions between different currencies without the need for multiple intermediaries, reducing transaction fees and increasing transaction speed.
 
 ## **10.  Sales Strategies**
     
@@ -295,14 +295,14 @@ Offering discounts or promotions for early adopters or for customers who refer n
 
 ## **11.  Team**
     
-That is the key: the team consists of committed people who love what they do. We are 2 engineering students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects and we want to be able to change that. That is why Maxime and Thomas glad to present Ripple Solvency, the solution for real privacy.
+That is the key: the team consists of committed people who love what they do. We are 2 engineering students bound by our passion and commitment for blockchain and Web3. We want to develop innovative solutions that will help the whole ecosystem expand. Too many times have we seen privacy being set aside in projects, and we want to be able to change that. That is why Maxime and Thomas glad to present XRPL Solvency, the solution for real privacy.
 
-By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, Ripple Solvency has the potential to be a valuable tool for individuals and businesses alike.
+By addressing the need for privacy in the blockchain ecosystem while having a real utility in our daily life, XRPL Solvency has the potential to be a valuable tool for individuals and businesses alike.
 
 
 ## **12.  Technical roadmap**
     
-**Q3 2023 :** R&D a front-end  isolated environment where programs have access to a limited set of capabilities, determined by the permissions they were granted by the user during installation. This will allow us to run our proof generation program (ring signature) directly in the front end and in a secure way for the user.
+**Q3 2023 :** R&D a front-end  isolated environment where programs have access to a limited set of capabilities, determined by the permissions they were granted by the user during installation. This will allow us to run our proof generation program (ring signature) directly in the front end and securely for the user.
 
 **Q4 2023 :** Audit and full use case integration: apartment renting, charitable donations, investments. We would like to create an indexer in order to retrieve the data essential to the generation of the proof.
 
