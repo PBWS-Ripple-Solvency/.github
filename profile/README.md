@@ -14,7 +14,7 @@ SOON
 
 ## **Business plan** 👨‍💼
 
-SOON
+Please find here our [Litepaper](https://github.com/PBWS-Ripple-Solvency/.github/blob/main/litepaper.md)
 
 ## **Pitch Deck**
 
