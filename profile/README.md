@@ -18,7 +18,7 @@ Please find here our [Litepaper](https://github.com/PBWS-Ripple-Solvency/.github
 
 ## **Pitch Deck**
 
-SOON
+Discover our [pitch deck](https://github.com/PBWS-Ripple-Solvency/.github/blob/main/RS_pitch_deck.pdf), presented during PBWS 2023 Hackathon ! 
 
 ## **The team** 🏆
 
