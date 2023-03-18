@@ -1,4 +1,4 @@
-# **Ripple Solvency Proof**
+# **XRPL Solvency Proof**
 
 **Enhance privacy, Prove solvency**
 
