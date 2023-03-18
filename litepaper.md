@@ -108,6 +108,10 @@ Bob want to verify Alice’s proof :
 
 **Step 3 :** Transfering the funds
 Once an agreement has been reached between Alice and Bob, Alice can send the various funds directly to Bob. But to increase his privacy, he will have to use a different wallet than the one linked to the generation of the proof of solvency.
+
+**TECHNOLOGY**  
+
+Should add here an explanation about anonymity set generation, proff verification + SBT (NFT emit with XLS-20 standard)
  
 ## **5.  Use Cases**
     
