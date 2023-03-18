@@ -302,10 +302,10 @@ By addressing the need for privacy in the blockchain ecosystem while having a re
 
 ## **12.  Technical roadmap**
     
-**Q3 2023 :** R&D a front-end  isolated environment where programs have access to a limited set of capabilities, determined by the permissions they were granted by the user during installation. This will allow us to run our proof generation program (ring signature) directly in the front end and securely for the user.
+**Q3 2023 :** R&D a front-end isolated environment where programs have access to a limited set of capabilities, determined by the permissions they were granted by the user during installation. This will allow us to run our proof generation program (ring signature) directly in the front end and securely for the user.
 
 **Q4 2023 :** Audit and full use case integration: apartment renting, charitable donations, investments. We would like to create an indexer in order to retrieve the data essential to the generation of the proof.
 
-**Q1 2024 :** publishing cryptographic libraries for XRPL based “solvency proof” generation and verification
+**Q1 2024 :** Creation of a "fund transfer channel" using zk technology and zk address to allow direct transfer of funds between two entities, without revealing the main addresses. 
 
 **Q2 2024 :** First partnerships and integrations with protocols, real word business...
