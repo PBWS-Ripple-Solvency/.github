@@ -71,6 +71,11 @@ When a signature is generated using a ring signature scheme, it includes informa
 
 This makes ring signatures particularly useful in applications that require fast and efficient signature verification, such as in the context of blockchain transactions, where multiple signatures may need to be verified in a short period of time. Additionally, the fact that ring signatures are scalable makes them well-suited to use in decentralized systems, where a large number of participants may need to sign and verify messages on a regular basis.
 
+**Proof of reserve**
+Current PoRs are carried out by independent entities.
+With our solution anyone can generate a PoR via an open source and verifiable mechanism based on cryptographic concepts.
+This concept will be more developed in the future for institutions. 
+
   
 ## **4.  How it works**  
 
