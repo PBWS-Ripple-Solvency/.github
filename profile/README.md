@@ -12,11 +12,16 @@ In an increasingly connected Blockchain ecosystem, it becomes difficult to untie
 ## **Our code** 👨‍💻
 
 You can test our live demo [website](https://web-app-virid-theta.vercel.app/)  
-[WebApp](https://github.com/PBWS-Ripple-Solvency/WebApp)
+Code of the [WebApp](https://github.com/PBWS-Ripple-Solvency/WebApp)  
+Code of the [Proof Generation and Verification](https://github.com/PBWS-Ripple-Solvency/generate_sig) implemented in python.
 
-## **Business plan** 👨‍💼
+## **Business plan** 👨‍💼 
 
-Please find here our [Litepaper](https://github.com/PBWS-Ripple-Solvency/.github/blob/main/litepaper.md)
+Please find here our [Litepaper](https://github.com/PBWS-Ripple-Solvency/.github/blob/main/litepaper.md)  
+
+## **Video demo**
+
+[Video demo on YT](https://youtu.be/p11Qojtt2P8)  
 
 ## **Pitch Deck**
 
